@@ -1,0 +1,19 @@
+.App {
+    text-align: center;
+}
+.Texto2 {
+    text-align: center;
+}
+.emoji {
+display: flex; 
+align-items: center;
+justify-content: center;
+margin-inline: 50px;
+padding-top: 10px;
+padding-bottom: 20px;
+}
+.emoji section button{
+    cursor: pointer;
+    background-color: white;
+    border: 0;
+}
